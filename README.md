@@ -1,4 +1,4 @@
-# An Action Recognition Approach with Context and Multiscale Motion Awareness
+# An Action Recognition Approach with Context and Multiscale Motion Awareness [[Paper]](http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2022/09.20.00.55/doc/cardoso-38-inpe.pdf)
 
 ---
 This repository contains the original implementation of the paper An Action Recognition Approach with Context and Multiscale Motion Awareness, published at SIBGRAPI 2022.
