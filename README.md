@@ -1,7 +1,7 @@
 # An Action Recognition Approach with Context and Multiscale Motion Awareness
 
 ---
-
+This repository contains the original implementation of the paper An Action Recognition Approach with Context and Multiscale Motion Awareness, published at SIBGRAPI 2022.
 
 Contact
 ===
